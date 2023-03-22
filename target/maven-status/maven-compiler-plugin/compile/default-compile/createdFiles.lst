@@ -21,7 +21,6 @@ com\portafolio\mem\Entity\HardSoftSkills.class
 com\portafolio\mem\security\service\UserDetailsServiceImpl.class
 com\portafolio\mem\Service\EducationService.class
 com\portafolio\mem\Service\ProjectsService.class
-.netbeans_automatic_build
 com\portafolio\mem\Controller\UserController.class
 com\portafolio\mem\security\dto\JwtDto.class
 com\portafolio\mem\Controller\ProjectsController.class
